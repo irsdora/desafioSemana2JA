@@ -1,0 +1,36 @@
+html, body{ 
+    margin: 0;
+}
+
+#imagem-fundo { 
+    background: url("fundo.jpg");
+    height: 100%;
+    text-align: center;
+}
+
+#titulo { 
+    color: white;
+    padding-top: 20%;
+    font-size: 60px;
+}
+
+#subtitulo { 
+    color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#acao { 
+    color: white;
+    border: 1px white solid;
+    padding: 10 px 20px 10px 20px;
+}
+
+section {
+    padding: 20px;
+ }
+
+ #saude-mulher{ 
+    padding: 20px;
+    width: 50;
+ }
